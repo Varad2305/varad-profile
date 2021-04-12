@@ -65,7 +65,7 @@ email: ""
 highlight_name: false
 ---
 
-Hey there! I am Varad Kshirsagar, a final year Computer Science student at BITS Pilani Hyderabad Campus. I am pursuing an off campus Bachelor's thesis at the Professorship of Environmental Sensing and Modelling at Technische Universität München under the supervision of Prof. Jia Chen. My thesis deals with proposing a method to calculate an anomaly score for carbon di-oxide data collected by a satellite, using context providing datasets.
+Hey there! I am Varad Kshirsagar, a final year Computer Science student at [BITS Pilani Hyderabad Campus](https://www.bits-pilani.ac.in/). I am pursuing an off campus Bachelor's thesis at the [Professorship of Environmental Sensing and Modelling](https://www.ei.tum.de/en/esm/home/) at [Technische Universität München](https://www.tum.de/en/) under the supervision of [Prof. Jia Chen](https://www.professoren.tum.de/en/chen-jia). My thesis deals with proposing a method to calculate an anomaly score for carbon di-oxide data collected by a satellite, using context providing datasets.
 
 I have taken up multiple projects in the fields of data mining, deep learning, machine learning and computational finance. Throughout my Bachelors, I even took up courses in the fields of Computer Vision, Information Retrieval, Artificial Intelligence and International Business out of curiosity. I explored these areas more by taking up formal projects under researchers at my university as well as working on personal projects with industry professionals. My interest in computational finance is new but I enjoy it thoroughly and find myself looking for new things to code / learn in that domain.
 
