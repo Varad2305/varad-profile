@@ -29,6 +29,8 @@ content:
     tag: '*'
   - name: Deep Learning
     tag: Deep Learning
+  - name: FinTech
+    tag: FinTech
   - name: Other
     tag: Demo
 
