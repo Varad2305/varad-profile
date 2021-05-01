@@ -76,4 +76,4 @@ Apart from my academic interests, I like to read (anything that comes my way, bu
 I'm looking for remote internship opportunities right now so feel free to say hi!
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
