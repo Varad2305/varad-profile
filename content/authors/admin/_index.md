@@ -38,9 +38,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/KshirsagarVarad
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=t5LHZjAAAAAJ&hl=en
@@ -56,7 +53,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: media/demo_resume.pdf
+  link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -76,4 +73,4 @@ Apart from my academic interests, I like to read (anything that comes my way, bu
 I'm looking for remote internship opportunities right now so feel free to say hi!
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
